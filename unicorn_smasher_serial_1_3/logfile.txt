@@ -1,0 +1,50 @@
+Unicorn Smasher Log File
+2024-4-8 1:7:39:	New Unicorn Smasher Game started.
+2024-4-8 1:7:39:	New unicorn created at 2, 0
+2024-4-8 1:7:41:	Unicorn disappeared. Current Score: 0
+2024-4-8 1:7:41:	New unicorn created at 2, 1
+2024-4-8 1:7:43:	Unicorn disappeared. Current Score: 0
+2024-4-8 1:7:43:	New unicorn created at 0, 2
+2024-4-8 1:7:44:	Unicorn smashed.		Alive Time: 1370ms		Unicorn Score: 32		 Current Score: 32
+2024-4-8 1:7:44:	New unicorn created at 2, 2
+2024-4-8 1:7:45:	Unicorn smashed.		Alive Time: 951ms		Unicorn Score: 53		 Current Score: 85
+2024-4-8 1:7:45:	New unicorn created at 2, 1
+2024-4-8 1:7:46:	Unicorn smashed.		Alive Time: 952ms		Unicorn Score: 53		 Current Score: 138
+2024-4-8 1:7:46:	New unicorn created at 1, 3
+2024-4-8 1:7:48:	Unicorn smashed.		Alive Time: 1952ms		Unicorn Score: 3		 Current Score: 141
+2024-4-8 1:7:48:	New unicorn created at 0, 2
+2024-4-8 1:7:49:	Unicorn smashed.		Alive Time: 901ms		Unicorn Score: 55		 Current Score: 196
+2024-4-8 1:7:49:	New unicorn created at 3, 0
+2024-4-8 1:7:50:	Unicorn smashed.		Alive Time: 900ms		Unicorn Score: 55		 Current Score: 251
+2024-4-8 1:7:50:	New unicorn created at 1, 3
+2024-4-8 1:7:51:	Unicorn smashed.		Alive Time: 1002ms		Unicorn Score: 50		 Current Score: 301
+2024-4-8 1:7:51:	New unicorn created at 3, 3
+2024-4-8 1:7:51:	Unicorn smashed.		Alive Time: 748ms		Unicorn Score: 63		 Current Score: 364
+2024-4-8 1:7:51:	New unicorn created at 2, 0
+2024-4-8 1:7:53:	Unicorn smashed.		Alive Time: 1099ms		Unicorn Score: 46		 Current Score: 410
+2024-4-8 1:7:53:	New unicorn created at 3, 3
+2024-4-8 1:7:53:	Unicorn smashed.		Alive Time: 850ms		Unicorn Score: 58		 Current Score: 468
+2024-4-8 1:7:53:	New unicorn created at 3, 2
+2024-4-8 1:7:54:	Unicorn smashed.		Alive Time: 791ms		Unicorn Score: 61		 Current Score: 529
+2024-4-8 1:7:54:	New unicorn created at 2, 0
+2024-4-8 1:7:55:	Unicorn smashed.		Alive Time: 952ms		Unicorn Score: 53		 Current Score: 582
+2024-4-8 1:7:55:	New unicorn created at 1, 1
+2024-4-8 1:7:57:	Unicorn smashed.		Alive Time: 1451ms		Unicorn Score: 28		 Current Score: 610
+2024-4-8 1:7:57:	New unicorn created at 0, 1
+2024-4-8 1:7:59:	Unicorn disappeared. Current Score: 610
+2024-4-8 1:7:59:	New unicorn created at 3, 0
+2024-4-8 1:8:0:	Unicorn smashed.		Alive Time: 1310ms		Unicorn Score: 35		 Current Score: 645
+2024-4-8 1:8:0:	New unicorn created at 2, 2
+2024-4-8 1:8:2:	Unicorn disappeared. Current Score: 645
+2024-4-8 1:8:2:	New unicorn created at 2, 1
+2024-4-8 1:8:3:	Unicorn smashed.		Alive Time: 1204ms		Unicorn Score: 40		 Current Score: 685
+2024-4-8 1:8:3:	New unicorn created at 3, 3
+2024-4-8 1:8:4:	Unicorn smashed.		Alive Time: 1061ms		Unicorn Score: 47		 Current Score: 732
+2024-4-8 1:8:4:	New unicorn created at 2, 2
+2024-4-8 1:8:5:	Unicorn smashed.		Alive Time: 1050ms		Unicorn Score: 48		 Current Score: 780
+2024-4-8 1:8:5:	New unicorn created at 3, 1
+2024-4-8 1:8:6:	Unicorn smashed.		Alive Time: 1051ms		Unicorn Score: 48		 Current Score: 828
+2024-4-8 1:8:6:	New unicorn created at 0, 2
+2024-4-8 1:8:8:	Unicorn disappeared. Current Score: 828
+2024-4-8 1:8:8:	New unicorn created at 3, 1
+2024-4-8 1:8:9:	Unicorn Smasher Game Over.	Final Score: 828
